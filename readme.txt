@@ -1,4 +1,4 @@
-autoit script for file splitting and rejoining, developed with only the features i need, but regardless here it is
+autoit scripts for file splitting and rejoining, developed with only the features i need, but regardless here it is
 
 splitting:
 via script: AutoIt3.exe _FileSplit.au3 filename bytes
